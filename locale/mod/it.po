@@ -4876,7 +4876,7 @@ msgstr "^3WARMUP:^7 Inizio tra"
 
 #: src/cgame/cg_draw.c:2481
 msgid "^3PREPARE TO FIGHT!\n"
-msgstr "^3 PREPARARSI A COMBATTERE!\n"
+msgstr "^3 PREPARARSI A MORIRE MALE!\n"
 
 #: src/cgame/cg_draw.c:2504 src/cgame/cg_scoreboard.c:242
 msgid "STOPWATCH ROUND"
@@ -4894,7 +4894,7 @@ msgstr "WARMUP"
 
 #: src/cgame/cg_draw_hud.c:2052
 msgid "Connection Interrupted"
-msgstr "Connessione Interrotta"
+msgstr "diocane si è rotto tutto"
 
 #: src/cgame/cg_event.c:271
 msgid "You swapped places with"
@@ -4902,11 +4902,11 @@ msgstr "Hai scambiato posto con"
 
 #: src/cgame/cg_event.c:275
 msgid "You killed ^1TEAMMATE^7"
-msgstr "Hai ucciso il ^1COMPAGNO^7"
+msgstr "Coglione hai ucciso il ^1COMPAGNO^7"
 
 #: src/cgame/cg_event.c:280
 msgid "You killed"
-msgstr "Hai ucciso"
+msgstr "Hai levato dal cazzo"
 
 #: src/cgame/cg_event.c:293
 msgid "^7swapped places with"
@@ -5203,7 +5203,7 @@ msgstr "ASSE"
 
 #: src/cgame/cg_scoreboard.c:812 src/cgame/cg_scoreboard.c:819
 msgid "FIRST BLOOD"
-msgstr "PRIMA VITTIMA"
+msgstr "PRIMA CARNE MORTA"
 
 #: src/cgame/cg_scoreboard.c:818 src/cgame/cg_scoreboard.c:832
 msgid "ALLIES"
@@ -5422,19 +5422,19 @@ msgstr "Tutti i server preferiti sono stati rimossi."
 
 #: src/cgame/cg_predict.c:641
 msgid "You are near"
-msgstr "Sei vicino"
+msgstr "Dall'odore sicuro sei vicino a"
 
 msgid "joined the Axis team\n"
-msgstr "si è unito all'Asse\n"
+msgstr "va a indebolire l'Asse\n"
 
 msgid "joined the Allies team\n"
-msgstr "si è unito agli Alleati\n"
+msgstr "va a indebolire gli Alleati\n"
 
 msgid "entered the game\n"
 msgstr "e' arrivato a rompere i coglioni\n"
 
 msgid "rediscovered gravity"
-msgstr "ha riscoperto la forza di gravità"
+msgstr "si è frantumato nelle rocce"
 
 msgid "was crushed"
 msgstr "si e' trifolato"
@@ -5479,16 +5479,16 @@ msgid "obliterated himself"
 msgstr "si è obliterato"
 
 msgid "fired-for-effect on himself"
-msgstr "si e' artiglierizzato il cazzo"
+msgstr "prima chiama l'artiglieria e poi ci va sotto da coglione"
 
 msgid "died in his own explosion"
 msgstr "e' morto in un'esplosione della sua stessa merda"
 
 msgid "ate his own rifle grenade"
-msgstr "si e' ingoiato la sua stessa merda"
+msgstr "ha ingoiato la sua stessa merda"
 
 msgid "failed to spot his own landmine"
-msgstr "e' un coglione"
+msgstr "non mette mai mine ma quando lo fa ci muore sopra come adesso"
 
 msgid "embraced his own satchel explosion"
 msgstr "si e' fatto brillare gridando ALALALALALAALALALA"
@@ -5648,19 +5648,19 @@ msgstr "Retrocedere!"
 msgid ""
 "^3All players ready!^7\n"
 "Match starting..."
-msgstr "^3Tutti pronti!^7\nInizia la partita..."
+msgstr "^3O inizia eh!^7\nState per morire..."
 
 msgid "Path cleared."
-msgstr "Via libera."
+msgstr "Forse non c'è nessuno."
 
 msgid "The enemy is weakened."
-msgstr "Il nemico si è indebolito."
+msgstr "Il nemico sta affogando nella propria urina."
 
 msgid "All clear."
-msgstr "Tutto libero."
+msgstr "Rutto libero."
 
 msgid "Incoming!"
-msgstr "Arrivano!"
+msgstr "Arrivano a infamarci!"
 
 msgid "Fire in the hole!"
 msgstr "Sta per saltare!"
@@ -5675,13 +5675,13 @@ msgid "Taking fire!"
 msgstr "Ci stanno addosso!"
 
 msgid "Mines cleared."
-msgstr "Mine Disinnescate."
+msgstr "Mine Disinnescate prima che chi le ha messe ci salti sopra."
 
 msgid "Enemy in disguise."
-msgstr "Nemico camuffato."
+msgstr "Nemico nei cieli."
 
 msgid "Need a Medic!"
-msgstr "Serve un Medico!"
+msgstr "Pungimi, cureggiami!"
 
 msgid "I need ammo!"
 msgstr "Mi servono munizioni!"
@@ -5696,19 +5696,19 @@ msgid "Cover me!"
 msgstr "Copritemi!"
 
 msgid "Hold your fire!"
-msgstr "Datti una calmata!"
+msgstr "Ma dove cazzo spari dioporco!"
 
 msgid "Where to?"
-msgstr "Dove?"
+msgstr "Dove cazzo?"
 
 msgid "We need Covert Ops!"
 msgstr "Ci servono Covert Ops!"
 
 msgid "Follow me!"
-msgstr "Seguitemi!"
+msgstr "dove cazzo vai vieni con me!"
 
 msgid "Let's go!"
-msgstr "Andiamo!"
+msgstr "Muovete il culo cani!"
 
 msgid "Move!"
 msgstr "Muoversi!"
@@ -5732,13 +5732,13 @@ msgid "Reinforce the defense!"
 msgstr "Rinforzare la difesa!"
 
 msgid "Affirmative!"
-msgstr "Affermativo!"
+msgstr "si cazzo!"
 
 msgid "No!"
-msgstr "No!"
+msgstr "T'ho detto di no!"
 
 msgid "Thank you!"
-msgstr "Grazie!"
+msgstr "Grazie graziella..!"
 
 msgid "You're welcome."
 msgstr "Prego!"
@@ -5747,70 +5747,70 @@ msgid "Bitte sehr."
 msgstr "Bitte sehr."
 
 msgid "Ja!"
-msgstr "Ja!"
+msgstr "si cazzen!"
 
 msgid "Nein!"
-msgstr "Nein!"
+msgstr "T'ho detto di nein!"
 
 msgid "Kein problem."
 msgstr "Kein problem."
 
 msgid "Sorry!"
-msgstr "Sorry!"
+msgstr "Sorry not sorry!"
 
 msgid "Oops!"
 msgstr "Oops!"
 
 msgid "Yes!"
-msgstr "Yes!"
+msgstr "si dai!"
 
 msgid "Jawohl!"
 msgstr "Jawohl!"
 
 msgid "Negative!"
-msgstr "Negativo!"
+msgstr "no dai!"
 
 msgid "Hi!"
-msgstr "Hi!"
+msgstr "Bella o!"
 
 msgid "Hello!"
-msgstr "Hello!"
+msgstr "Aho!"
 
 msgid "Hallo!"
-msgstr "Hallo!"
+msgstr "Saluten!"
 
 msgid "Good bye."
-msgstr "Good bye."
+msgstr "Se vedemmu."
 
 msgid "Auf wiedersehen."
-msgstr "Auf wiedersehen."
+msgstr "Se vedemmu (ma in tedesco)."
 
 msgid "Bye."
-msgstr "Bye."
+msgstr "Ciao eh."
 
 msgid "Great shot!"
-msgstr "Great shot!"
+msgstr "Che botta di culo però bravo!"
 
 msgid "You got it, man!"
 msgstr "You got it, man!"
 
 msgid "Yeah!"
-msgstr "Yeah!"
+msgstr "V57!"
 
 msgid "Yoohoo!"
 msgstr "Yoohoo!"
 
 msgid "Hahaa!"
-msgstr "Hahaa!"
+msgstr "Tièè nel culo!"
 
 msgid "Alright!"
 msgstr "Alright!"
 
 msgid "Woo!"
-msgstr "Woo!"
+msgstr "Sborro!"
 
 msgid "Yeehaa!"
-msgstr "Yeehaa!"
+msgstr "oh si godo!"
 
 msgid "'Atta way, baby!"
 msgstr "'Atta way, baby!"
@@ -5822,7 +5822,7 @@ msgid "Wunderbar!"
 msgstr "Wunderbar!"
 
 msgid "Excellent!"
-msgstr "Excellent!"
+msgstr "Exelent!"
 
 msgid "Oh yes!"
 msgstr "Oh yes!"
@@ -5831,7 +5831,7 @@ msgid "Sehr gut!"
 msgstr "Sehr gut!"
 
 msgid "Thanks!"
-msgstr "Thanks!"
+msgstr "Grazie graziella..!"
 
 msgid "Danke!"
 msgstr "Danke!"
@@ -5843,7 +5843,7 @@ msgid "No problem."
 msgstr "No problem."
 
 msgid "Good game!"
-msgstr "Bel gioco!"
+msgstr "Avete avuto solo culo!"
 
 msgid "Command acknowledged!"
 msgstr "Comando accettato!"
@@ -5864,7 +5864,7 @@ msgid "Destroy construction!"
 msgstr "Distruggere costruzione!"
 
 msgid "I'm constructing!"
-msgstr "Sto costruendo!"
+msgstr "Sto spinzettando!"
 
 msgid "Repair the vehicle!"
 msgstr "Riparare il veicolo!"
@@ -5879,13 +5879,13 @@ msgid "Covering fire!"
 msgstr "Copritemi!"
 
 msgid "I'm a soldier."
-msgstr "Sono un soldato."
+msgstr "Sono un sudato."
 
 msgid "I'm an engineer."
-msgstr "Sono un ingegnere."
+msgstr "Sono uno spinzettatore."
 
 msgid "I'm a medic."
-msgstr "Sono un medico."
+msgstr "Sono un pungitore."
 
 msgid "I'm a field ops."
 msgstr "Sono un field ops."
@@ -5924,7 +5924,7 @@ msgid "Landmine defused"
 msgstr ""
 
 msgid "Defusing dynamite..."
-msgstr "Disinnesco dinamite..."
+msgstr "Defuso se non mi sparano prima..."
 
 msgid "Affirmative!!"
 msgstr "Affirmative!!"
@@ -5933,7 +5933,7 @@ msgid "^1Spam Protection^7: VoiceChat ignored"
 msgstr "^1Protezione Anti-Spam^7: VoiceChat ignorata"
 
 msgid "Mines have been reported in this area."
-msgstr "Sono state rilevate delle mine in quest'area."
+msgstr "Ci sono un botto di mine in giro."
 
 msgid "'s Landmine"
 msgstr "."
@@ -6035,7 +6035,7 @@ msgid "Landmine cannot be armed here"
 msgstr ""
 
 msgid "Your team has too many landmines placed..."
-msgstr "Il tuo team ha troppe mine piazzate..."
+msgstr "Quante mine hai messo? Basta oh..."
 
 msgid "You cannot arm dynamite near a friendly construction!"
 msgstr "Non puoi armare dinamite vicino a una costruzione amica!"
@@ -6308,7 +6308,7 @@ msgid "A vote is already in progress.\n"
 msgstr "È già in corso una votazione.\n"
 
 msgid "called a vote.\n"
-msgstr "ha richiesto una votazione.\n"
+msgstr ",l'idiota, ha richiesto una votazione.\n"
 
 msgid "^5Vote passed!\n"
 msgstr "^5Voto passato!\n"
@@ -6572,7 +6572,7 @@ msgid "- Health"
 msgstr "- Salute"
 
 msgid "- Knife"
-msgstr "- Pugnale"
+msgstr "- Sfilettatore"
 
 msgid "- Ka-Bar"
 msgstr "- Ka-Bar"
@@ -6605,7 +6605,7 @@ msgid "- MP 40"
 msgstr "- MP 40"
 
 msgid "- Panzerfaust"
-msgstr "- Panzerfaust"
+msgstr "- Panzerone"
 
 msgid "- Bazooka"
 msgstr "- Bazooka"
@@ -6623,7 +6623,7 @@ msgid "- Syringe"
 msgstr "- Siringa"
 
 msgid "- Adrenaline Syringe"
-msgstr "- Siringa Adrenalina"
+msgstr "- Siringa della drogah"
 
 msgid "- Ammo Pack"
 msgstr "- Munizioni"
@@ -6732,10 +6732,10 @@ msgid "Fireteam Quick Chat:"
 msgstr "Fireteam Chat Rapida:"
 
 msgid "Ready:"
-msgstr "Pronto:"
+msgstr "Prontissimo:"
 
 msgid "Not Ready:"
-msgstr "Non Pronto:"
+msgstr "Dovrei muovermi a schiacciare f3:"
 
 msgid "CONTROLS: ADVANCED"
 msgstr "CONTROLLI: AVANZATE"
