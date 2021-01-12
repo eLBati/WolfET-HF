@@ -4851,7 +4851,7 @@ msgstr "^3Configurazione: ^7%s^7"
 #: src/cgame/cg_draw.c:2435
 #, c-format
 msgid "^3WARMUP:^7 Waiting on ^2%i^7 %s"
-msgstr "^3RISCALDAMENTO:^7 Attesa di ^2%i^7 %s"
+msgstr "^3WARMUP:^7 Attesa di ^2%i^7 %s"
 
 #: src/cgame/cg_draw.c:2435
 msgid "player"
@@ -4872,7 +4872,7 @@ msgstr "Premi ^3%s^7 per iniziare"
 
 #: src/cgame/cg_draw.c:2470
 msgid "^3WARMUP:^7 Match begins in"
-msgstr "^3RISCALDAMENTO:^7 Inizio tra"
+msgstr "^3WARMUP:^7 Inizio tra"
 
 #: src/cgame/cg_draw.c:2481
 msgid "^3PREPARE TO FIGHT!\n"
@@ -4890,7 +4890,7 @@ msgstr ""
 #: src/cgame/cg_draw_hud.c:1754 src/cgame/cg_draw_hud.c:1852
 #: src/cgame/cg_scoreboard.c:178
 msgid "WARMUP"
-msgstr "RISCALDAMENTO"
+msgstr "WARMUP"
 
 #: src/cgame/cg_draw_hud.c:2052
 msgid "Connection Interrupted"
@@ -7048,7 +7048,7 @@ msgstr ""
 
 #: src/cgame/cg_draw.c:2505
 msgid "^3WARMUP:^7 Match begins now!"
-msgstr "^3RISCALDAMENTO:^7 Inizia la partita!"
+msgstr "^3WARMUP:^7 Inizia la partita!"
 
 #: src/cgame/cg_scoreboard.c:211
 msgid "MATCH BEGINS NOW!"
