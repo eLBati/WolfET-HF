@@ -5015,7 +5015,7 @@ msgstr "XP / Prossimo Livello"
 
 #: src/cgame/cg_info.c:807
 msgid "Medals"
-msgstr "Medaglie"
+msgstr "Brevetti"
 
 #: src/cgame/cg_info.c:816
 msgid "No skills acquired!"
@@ -5272,7 +5272,7 @@ msgstr "^3Nessuna info dell'arma disponibile.\n"
 
 #: src/cgame/cg_servercmds.c:2153
 msgid "  Medals"
-msgstr "Medaglie"
+msgstr " Brevetti"
 
 #: src/cgame/cg_servercmds.c:2165
 msgid "^3No skills acquired!\n"
@@ -5578,7 +5578,7 @@ msgid "a Flak Jacket"
 msgstr "Giubbotto Antiproiettile"
 
 msgid "Adrenalin Self"
-msgstr "Disposizione Adrenalina"
+msgstr "Drogaaah"
 
 msgid "Enemy Recognition"
 msgstr "Riconoscimento Nemico"
@@ -5648,7 +5648,7 @@ msgstr "Retrocedere!"
 msgid ""
 "^3All players ready!^7\n"
 "Match starting..."
-msgstr "^3O inizia eh!^7\nState per morire..."
+msgstr "^3Inizia eh!^7\nState per morire..."
 
 msgid "Path cleared."
 msgstr "Forse non c'è nessuno."
@@ -5936,7 +5936,7 @@ msgid "Mines have been reported in this area."
 msgstr "Ci sono un botto di mine in giro."
 
 msgid "'s Landmine"
-msgstr "."
+msgstr " e delle sue cazzo di mine"
 
 msgid "'s Mobile MG 42"
 msgstr " con un MG 42 Mobile"
@@ -6032,7 +6032,7 @@ msgid "Public Settings Loaded!\n"
 msgstr "Impostazioni Pubbliche Caricate!\n"
 
 msgid "Landmine cannot be armed here"
-msgstr ""
+msgstr "Non puoi piazzarla qui, coglione"
 
 msgid "Your team has too many landmines placed..."
 msgstr "Quante mine hai messo? Basta oh..."
@@ -6071,7 +6071,7 @@ msgid "The leader has now left the Fireteam you applied to"
 msgstr ""
 
 msgid "The other player is already on a fireteam"
-msgstr "L'altro giocatore è fa già parte di un fireteam"
+msgstr "L'altro giocatore fa già parte di un fireteam"
 
 msgid "You are not on the same team as the other player"
 msgstr "Non sei nello stesso team dell'altro giocatore"
@@ -6338,7 +6338,7 @@ msgid "Vote cast.\n"
 msgstr "Voto espresso.\n"
 
 msgid "'s KA-BAR"
-msgstr " con il suo KA-BAR ma che cazzo e'"
+msgstr " con il suo KA-BAR ma che cazzo e'?"
 
 msgid "'s knife arts"
 msgstr " con il suo coltellaccio da cucina"
@@ -6849,7 +6849,7 @@ msgid "Highest Ranking Officer"
 msgstr "Ufficiale Maggior Grado"
 
 msgid "Most Highly Decorated"
-msgstr "Maggior Pluridecorato"
+msgstr "Maggior Pluribrevettato"
 
 msgid "Highest Battle Sense"
 msgstr "Migliore Tattica"
@@ -6888,7 +6888,7 @@ msgid "Best Survivor"
 msgstr ""
 
 msgid "Most Gibs"
-msgstr ""
+msgstr "Miglior gibbone"
 
 msgid "Most Selfkills"
 msgstr ""
