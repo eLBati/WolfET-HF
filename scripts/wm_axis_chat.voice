@@ -714,12 +714,7 @@ HF_brevetti
 	sound/HF/brevetti.wav	"I brevetti"
 }
 
-HF_malato_mentale
+HF_presto
 {
-	sound/HF/malato_mentale.wav	"Malato"
-}
-
-HF_prevedere_mosse
-{
-	sound/HF/prevedere_mosse.wav	"Mosse"
+	sound/HF/presto.wav	"Presto!"
 }

@@ -238,8 +238,7 @@ QM_MENU_START( "wm_quick3_alt_more" )
 
         QM_MENU_ITEM(   "1. Pugnetta", 			exec "VoiceChat HF_pugnetta"; 			close wm_quick3_alt_more,            "1", 0 )
 	QM_MENU_ITEM(   "2. Dettagli",		 	exec "VoiceChat HF_dettagli";			close wm_quick3_alt_more,            "2", 1 )
-	QM_MENU_ITEM(   "3. Malato",		 	exec "VoiceChat HF_malato_mentale";		close wm_quick3_alt_more,            "3", 2 )
-	QM_MENU_ITEM(   "4. Mosse",		 	exec "VoiceChat HF_prevedere_mosse";		close wm_quick3_alt_more,            "4", 3 )
+	QM_MENU_ITEM(   "3. Presto!",		 	exec "VoiceChat HF_presto";		close wm_quick3_alt_more,            "3", 2 )
       
 
 QM_MENU_END

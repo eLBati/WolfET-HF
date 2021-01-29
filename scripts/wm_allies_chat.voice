@@ -729,12 +729,7 @@ HF_dettagli
 	sound/HF/dettagli.wav	"Dettagli"
 }
 
-HF_malato_mentale
+HF_presto
 {
-	sound/HF/malato_mentale.wav	"Malato"
-}
-
-HF_prevedere_mosse
-{
-	sound/HF/prevedere_mosse.wav	"Mosse"
+	sound/HF/presto.wav	"Presto!"
 }
