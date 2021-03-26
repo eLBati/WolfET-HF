@@ -718,3 +718,28 @@ HF_presto
 {
 	sound/HF/presto.wav	"Presto!"
 }
+
+HF_baby
+{
+	sound/HF/baby.wav	"Baby"
+}
+
+HF_Incompetents
+{
+	sound/HF/Incompetents.wav	"Incompetents"
+}
+
+HF_morale
+{
+	sound/HF/morale.wav	"Morale"
+}
+
+HF_chivuolelaguerra
+{
+	sound/HF/chivuolelaguerra.wav	"Chi vuole la guerra?"
+}
+
+HF_surprise
+{
+	sound/HF/surprise.wav	"Surprise"
+}
