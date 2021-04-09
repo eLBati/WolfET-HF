@@ -743,3 +743,8 @@ HF_surprise
 {
 	sound/HF/surprise.wav	"Surprise"
 }
+
+HF_come_sto_andando_scusi
+{
+	sound/HF/come_sto_andando_scusi.wav	"Come sto andando scusi?"
+}

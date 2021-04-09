@@ -244,6 +244,7 @@ QM_MENU_START( "wm_quick3_more" )
 	QM_MENU_ITEM(   "6. Vincitrice morale",		 	exec "VoiceChat HF_morale";		close wm_quick3_alt_more,            "6", 5 )
 	QM_MENU_ITEM(   "7. Chi vuole la guerra?",		 	exec "VoiceChat HF_chivuolelaguerra";		close wm_quick3_alt_more,            "7", 6 )
 	QM_MENU_ITEM(   "8. Surprise",		 	exec "VoiceChat HF_surprise";		close wm_quick3_alt_more,            "8", 7 )
+	QM_MENU_ITEM(   "9. Come sto andando scusi?",		 	exec "VoiceChat HF_come_sto_andando_scusi";		close wm_quick3_alt_more,            "9", 8 )
       
 
 QM_MENU_END
