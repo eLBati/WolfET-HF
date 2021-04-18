@@ -748,3 +748,8 @@ HF_come_sto_andando_scusi
 {
 	sound/HF/come_sto_andando_scusi.wav	"Come sto andando scusi?"
 }
+
+HF_sto_male
+{
+	sound/HF/sto_male.wav	"Sto male"
+}
