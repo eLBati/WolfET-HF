@@ -769,3 +769,8 @@ HF_sto_male
 	sound/HF/sto_male.wav	"Sto male"
 }
 
+HF_provinciali
+{
+	sound/HF/provinciali.wav	"Provinciali"
+}
+

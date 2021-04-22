@@ -229,7 +229,8 @@ QM_MENU_START( "wm_quick3_alt" )
 	QM_MENU_ITEM(   "6. Se vuoi vengo lo stesso",			 exec "VoiceChat HF_albo";			close wm_quick3_alt,            "6", 5 )
 	QM_MENU_ITEM(   "7. Capelli...",			 exec "VoiceChat HF_capelli_assenti";			close wm_quick3_alt,            "7", 6 )
 	QM_MENU_ITEM(   "8. Brevetti",			 exec "VoiceChat HF_brevetti";			close wm_quick3_alt,            "8", 7 )
-	QM_MENU_ITEM(   "9. ...",			close wm_quick3_alt;				open wm_quick3_alt_more,	    "9", 8 )
+	QM_MENU_ITEM(   "9. Provinciali",			 exec "VoiceChat HF_provinciali";			close wm_quick3_alt,            "9", 8 )
+	QM_MENU_ITEM(   "0. ...",			close wm_quick3_alt;				open wm_quick3_alt_more,	    "0", 9 )
       
 
 QM_MENU_END
