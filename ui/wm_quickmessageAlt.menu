@@ -254,6 +254,8 @@ QM_MENU_END
 QM_MENU_START( "wm_quick3_alt_more_more" )
 
         QM_MENU_ITEM(   "1. Sto male", 			exec "VoiceChat HF_sto_male"; 			close wm_quick3_alt_more_more,            "1", 0 )
+        QM_MENU_ITEM(   "2. Melina", 			exec "VoiceChat HF_melina"; 			close wm_quick3_alt_more_more,            "2", 1 )
+        QM_MENU_ITEM(   "3. Conga", 			exec "VoiceChat HF_conga"; 			close wm_quick3_alt_more_more,            "3", 2 )
       
 
 QM_MENU_END

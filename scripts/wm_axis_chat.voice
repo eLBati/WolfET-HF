@@ -758,3 +758,13 @@ HF_provinciali
 {
 	sound/HF/provinciali.wav	"Provinciali"
 }
+
+HF_melina
+{
+	sound/HF/melina.wav	"Melina"
+}
+
+HF_conga
+{
+	sound/HF/conga.wav	"Conga"
+}
