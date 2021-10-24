@@ -784,3 +784,8 @@ HF_conga
 	sound/HF/conga.wav	"Conga"
 }
 
+HF_oro
+{
+	sound/HF/oro.wav	"Oro massiccio"
+}
+
