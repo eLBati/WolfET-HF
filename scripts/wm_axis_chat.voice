@@ -773,3 +773,8 @@ HF_oro
 {
 	sound/HF/oro.wav	"Oro massiccio"
 }
+
+HF_cacciagli
+{
+	sound/HF/cacciagli.wav	"Cacciagli"
+}
